@@ -1,3 +1,5 @@
 - ayam geprek
 - ayam goreng
 - ayam bakar
+- ikan bakar
+- ikan goreng
